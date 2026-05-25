@@ -2,25 +2,26 @@
   <img src="assets/banner.png" alt="Pedro Mamani Banner" width="100%">
 </p>
 
-<h1 align="center">Hi there, I'm Pedro 👋</h1>
-
-<h3 align="center">
-Senior Data Scientist specialized in Applied AI for Financial Products
-</h3>
+<h1 align="center">Pedro Mamani</h1>
 
 <p align="center">
-Building machine learning solutions for pricing, credit risk, customer behavior and portfolio optimization.
+Senior Data Scientist | Applied AI | Pricing Optimization | Credit Risk
+</p>
+
+<p align="center">
+Designing machine learning solutions for financial decision-making.
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a Senior Data Scientist with experience designing and deploying analytical and machine learning solutions in the financial industry.
+I'm a Senior Data Scientist with experience building analytical and machine learning solutions for the financial industry.
 
-My work focuses on transforming business problems into scalable AI-driven solutions, especially in banking environments where pricing, risk and customer behavior intersect.
+My work sits at the intersection of **Artificial Intelligence, pricing strategy, credit risk, and customer behavior analytics**, with a focus on transforming business challenges into scalable data-driven solutions.
 
-Currently working on:
+Currently, my work includes:
+
 - Pricing optimization frameworks
 - Willingness to Pay (WTP) modeling
 - Credit risk analytics
@@ -31,125 +32,93 @@ Currently working on:
 
 ---
 
-## 🧠 AI / Machine Learning Expertise
+## Core Expertise
 
-### Machine Learning
-- Classification
-- Regression
-- Clustering
-- Feature Selection
+### Artificial Intelligence & Machine Learning
+- Supervised Learning
+- Classification & Regression
+- Feature Engineering
+- Model Evaluation & Validation
 - Hyperparameter Optimization
-- Model Evaluation
-- Calibration
-- Ensemble Learning
+- Model Calibration
+- Explainable AI
 
 ### Deep Learning
 - Neural Networks (MLP)
-- CNNs
+- CNN Architectures
 - TensorFlow / Keras
-- Activation Functions
 - Optimization Algorithms
 - Regularization Techniques
 
-### Financial AI Applications
+### Financial Analytics
+- Pricing Optimization
 - Credit Risk Modeling
 - Behavioral Scoring
 - Default Prediction
-- Pricing Optimization
-- WTP Modeling
+- Revenue Optimization
 - Customer Sensitivity Modeling
-- Portfolio Revenue Optimization
 
 ---
 
-## 🛠 Tech Stack
+## Technical Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+**Languages & Data**
+- Python
+- SQL
+- PySpark
 
-### Machine Learning / AI
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+**Machine Learning / AI**
+- Scikit-learn
+- TensorFlow
+- Keras
 
-### Big Data / Engineering
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**Cloud / Engineering**
+- AWS SageMaker
+- Git
+- Jupyter Notebooks
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 💰 WTP Pricing Engine
-Generic ML-based Willingness to Pay engine for pricing sensitivity modeling, simulation and revenue optimization.
+### WTP Pricing Engine
+A modular machine learning framework for Willingness to Pay modeling, pricing simulation, and revenue optimization.
 
-**Highlights:**
+**Key characteristics:**
 - Modular architecture
-- Synthetic production-safe dataset
-- Calibration-ready pipeline
+- Production-inspired structure
+- Synthetic safe dataset
+- Calibration-ready design
 - Financial optimization oriented
 
 ---
 
-### 📉 Credit Risk Behavioral Scoring
-Behavioral credit scoring framework comparing traditional ML models and neural networks for post-origination default prediction.
-
-**Includes:**
-- Logistic Regression
-- SVM
-- Neural Networks
-- Feature Engineering
-- Model Evaluation Framework
-- Sensitivity Analysis
+### CLV Modeling Research
+Work focused on customer value modeling, cancellation dynamics, survival analysis, and financial decision frameworks.
 
 ---
 
-### ⚙️ Financial Feature Engineering Toolkit
-Reusable framework for financial feature engineering.
+## Professional Interests
 
-Examples:
-- WOE / IV
-- Correlation pruning
-- Outlier treatment
-- PSI
-- Gini / AUC evaluation
-- Variable selection pipelines
+I'm particularly interested in:
 
----
-
-## 📈 Areas of Interest
-
-I'm especially interested in:
-
-- Applied AI in financial services
+- Applied AI for financial services
 - Credit decision intelligence
 - Dynamic pricing systems
 - Explainable AI
 - Optimization under uncertainty
 - Behavioral analytics
-- Revenue optimization
-- AI product design
+- AI-driven business strategy
 
 ---
 
-## 🌍 Current Focus
+## Connect
 
-Building robust AI systems that bridge business strategy and machine learning engineering.
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/pedromamanicosquillo
+- LinkedIn: https://www.linkedin.com/in/pedromaco04/
 - GitHub: https://github.com/pedromaco04
 
 ---
 
 <p align="center">
-⚡ Turning financial data into intelligent decisions
+Building intelligent systems for better financial decisions.
 </p>
