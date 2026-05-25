@@ -1,14 +1,19 @@
 # Hi, I'm Pedro 👋
 
-Data Scientist focused on pricing, credit risk, machine learning and portfolio optimization.
+Data Scientist specialized in Applied AI for financial products.
 
-## Main interests
-- Willingness to Pay models
-- Credit risk and behavioral scoring
-- Machine Learning for financial products
+I work on machine learning solutions for:
 - Pricing optimization
-- Data pipelines and model deployment
+- Credit risk modeling
+- Behavioral scoring
+- Willingness to Pay models
+- Portfolio optimization
+- Model monitoring and calibration
 
-## Featured projects
-- WTP Pricing Engine
-- TFM: Interest Rate as an Explanatory Variable in Default Models
+## AI / ML Stack
+
+Python · PySpark · SQL · Scikit-learn · TensorFlow/Keras · Neural Networks · Clustering · PCA · Feature Engineering · Model Evaluation · AWS SageMaker
+
+## Main Interests
+
+Applied AI in banking, credit risk, dynamic pricing, explainable ML and optimization models.
